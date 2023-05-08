@@ -510,7 +510,7 @@ a:active {
 	color: var(--nav-item-link-hover);
 }
 
-ul .row {
+ul.row {
 	margin: 0;
 	padding: 0;
 	list-style: none;
@@ -525,7 +525,7 @@ ul .row {
 .col-1-2 {
 	width: 50%;
 	float: left;
-	padding 0.5rem;
+	padding: 0.5rem;
 }
 
 .footer-copyright {
